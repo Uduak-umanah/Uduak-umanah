@@ -6,6 +6,8 @@
 Native Android / software Engineer targeting application and software Development Opportunities with Kotlin and Java. I am passionate about exploring ways application technology can provide practical solutions to everyday problems. I’m seeking to connect with android  professionals who are currently working on application and  development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uduak-umanah&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uduak-umanah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #Skills:
 * 
