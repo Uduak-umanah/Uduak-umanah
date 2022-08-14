@@ -10,7 +10,7 @@ Native Android / software Engineer targeting application and software Developmen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uduak-umanah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #Skills:
-* 
+
 
 - 🔭 I’m currently working on this page. 
 
