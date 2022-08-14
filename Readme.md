@@ -2,7 +2,7 @@
 ![](https://pbs.twimg.com/profile_banners/1156357756078776322/1659217683/1500x500)
 ### Hi there 👋, my name is Uduak
 
-#### Fledging Native android  and Software developer
+
 
 Native Android / software Engineer targeting application and software Development Opportunities with Kotlin and Java. I am passionate about exploring ways application technology can provide practical solutions to everyday problems. I’m seeking to connect with android  professionals who are currently working on application and  development
 
