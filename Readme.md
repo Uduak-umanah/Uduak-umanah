@@ -1,5 +1,6 @@
 
 ![](https://github.com/Uduak-umanah/Uduak-umanah/blob/main/90254566.jfif)
+<img src="github.com/Uduak-umanah/Uduak-umanah/blob/main/90254566.jfif">
 ### Hi there 👋, my name is Uduak
 
 
