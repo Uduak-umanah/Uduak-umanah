@@ -1,5 +1,5 @@
 
-![](https://pbs.twimg.com/profile_banners/1156357756078776322/1659217683/1500x500)
+![](https://pbs.twimg.com/profile_banners/https://github.com/Uduak-umanah/Uduak-umanah/blob/main/90254566.jfif)
 ### Hi there 👋, my name is Uduak
 
 
