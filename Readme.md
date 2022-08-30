@@ -8,7 +8,7 @@
 
 Native Android / software Engineer targeting application and software Development Opportunities with Kotlin and Java. I am passionate about exploring ways application technology can provide practical solutions to everyday problems. I’m seeking to connect with android  professionals who are currently working on application and  development
 
-<img align= "left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=Uduak-umanah&show_icons=true&theme=radical">
+<img align= "left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=UduakUmanah10&show_icons=true&theme=radical">
 
   <img align="left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UduakUmanah10&layout=compact">
 
