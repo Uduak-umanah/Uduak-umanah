@@ -10,8 +10,9 @@ Native Android / software Engineer targeting application and software Developmen
 
 <img align= "left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=UduakUmanah10&show_icons=true&theme=radical">
 
-  <img align="left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UduakUmanah10&layout=compact">
-
+ <img align="left" width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UduakUmanah10&layout=compact">
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
 
 
